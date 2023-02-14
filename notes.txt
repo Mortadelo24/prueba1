@@ -1,0 +1,5 @@
+branching
+
+git branch // git branch NOMBRE DE LA RAMA
+
+git checkout // git checkout RAMA YA CREADA

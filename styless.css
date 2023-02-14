@@ -1,0 +1,15 @@
+header{
+    background-color: palegreen;
+    height: 40px;
+    width: 100%;
+}
+
+h1{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* display: grid;
+    place-items: center; */
+}
+
