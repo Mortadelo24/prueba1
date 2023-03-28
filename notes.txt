@@ -22,3 +22,12 @@ git branch -d new-feature
 
 git config --global user.email "josedanielmirandaperez410@gmail.com"
 git config --global user.name "Mortadelo24"
+
+
+
+localStorage.setItem(name, item)
+localStorage.getItem(name)
+
+
+
+
